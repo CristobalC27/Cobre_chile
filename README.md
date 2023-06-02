@@ -8,8 +8,8 @@ Para ello en las siguientes líneas de código se buscará modelar estadísticam
 
 Para ello se tendrá en consideración tres estudios respecto a la producción y exportación del cobre en Chile:
 
-La producción chilena de cobre según sus subproductos.
+1) La producción chilena de cobre según sus subproductos.
 
-El aporte productivo de las principales empresas dentro del territorio nacional.
+2) El aporte productivo de las principales empresas dentro del territorio nacional.
 
-Las exportaciones de cobre en Chile.
+3) Las exportaciones de cobre en Chile.
